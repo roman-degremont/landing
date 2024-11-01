@@ -1,0 +1,10 @@
+.container {
+	width: 700px;
+	position: relative;
+	margin: 70px auto;
+	display: flex;
+	justify-content: center;
+}
+
+
+
